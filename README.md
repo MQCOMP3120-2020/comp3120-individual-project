@@ -27,5 +27,8 @@ Run a sample server with:
 npx json-server --port 3001 --watch sampledata.json 
 ```
 
-see [https://fullstackopen.com/en/part2/getting_data_from_server](the text) for details of using json-server.
+see [the text](https://fullstackopen.com/en/part2/getting_data_from_server) for details of 
+using json-server.
+
+
 
